@@ -1,0 +1,101 @@
+nama,kelamin,pendidikan,pekerjaan,jumlah_tanggungan,lantai_rumah,dinding_rumah,daya_listrik,sumber_air,keputusan
+mifta,pria,sd,petani,1,keramik,semi-tembok,900 va,pam,tidak miskin
+suwar,pria,sd,petani,1,keramik,tembok,900 va,pam,tidak miskin
+senin,pria,sma,swasta,2,keramik,tembok,900 va,pam,tidak miskin
+djumiah,wanita,sd,buruh,0,keramik,semi-tembok,450 va,pam,miskin
+marpuah,wanita,sd,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,pam,miskin
+malik ibadi s,pria,perguruan tinggi,swasta,3,keramik,tembok,900 va,pam,tidak miskin
+sundiyah,wanita,smp,pedagang,0,keramik,semi-tembok,450 va,pam,tidak miskin
+nashoka,pria,smp,tidak bekerja,1,keramik,tembok,450 va,pam,tidak miskin
+ahmad yani,pria,smp,buruh,2,keramik,tembok,450 va,pam,miskin
+zamyuri,pria,sma,buruh,2,keramik,tembok,450 va,pam,tidak miskin
+suwanto,pria,sma,petani,2,keramik,semi-tembok,450 va,sumur,tidak miskin
+udiyanto,pria,sma,swasta,2,keramik,tembok,900 va,pam,tidak miskin
+syafii,pria,sma,pedagang,1,keramik,tembok,900 va,pam,tidak miskin
+pasinem,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur,miskin
+sulomo,pria,sd,buruh,1,keramik,tembok,450 va,pam,tidak miskin
+muzazain,pria,sd,buruh,1,keramik,semi-tembok,450 va,sumur,miskin
+patonah,wanita,tidak sekolah,tidak bekerja,0,keramik,semi-tembok,450 va,pam,miskin
+ngadi,pria,sma,pedagang,1,keramik,tembok,450 va,pam,tidak miskin
+paeni,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur,miskin
+safingi,pria,sma,tidak bekerja,1,keramik,semi-tembok,900 va,pam,tidak miskin
+ruminah,wanita,tidak sekolah,buruh,0,tegel/tembok,semi-tembok,450 va,sumur,miskin
+rohatun,wanita,sd,buruh,2,tegel/tembok,tembok,450 va,sumur,miskin
+sudiyono,pria,sma,buruh,3,keramik,tembok,450 va,pam,tidak miskin
+muhyi,pria,sma,swasta,2,keramik,tembok,900 va,pam,tidak miskin
+wawan,pria,sma,swasta,0,keramik,tembok,900 va,pam,tidak miskin
+aris kurniawan,pria,sma,pedagang,0,keramik,semi-tembok,450 va,sumur,tidak miskin
+sri murni,wanita,sd,buruh,1,tegel/tembok,semi-tembok,450 va,sumur,miskin
+slamet wiharjo,pria,sd,buruh,0,tegel/tembok,semi-tembok,450 va,sumur,miskin
+raji,pria,sd,buruh,2,tegel/tembok,semi-tembok,450 va,sumur,miskin
+achsan,pria,smp,buruh,2,tegel/tembok,semi-tembok,450 va,sumur,miskin
+suendah,wanita,sd,tidak bekerja,1,tegel/tembok,semi-tembok,450 va,sumur,miskin
+sri pujiati,wanita,sd,tidak bekerja,0,keramik,semi-tembok,450 va,pam,miskin
+seneng,wanita,sd,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,pam,miskin
+mangin,pria,tidak sekolah,petani,0,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+remu,wanita,sd,tidak bekerja,1,tegel/tembok,semi-tembok,450 va,sumur,miskin
+bero,pria,sd,petani,0,tegel/tembok,tembok,900 va,pam,tidak miskin
+sadullah,pria,sma,petani,1,keramik,tembok,450 va,pam,tidak miskin
+suud,pria,sma,buruh,0,keramik,tembok,900 va,pam,tidak miskin
+diniyah,wanita,smp,buruh,1,keramik,semi-tembok,450 va,pam,miskin
+antok,pria,sma,pedagang,0,keramik,tembok,900 va,pam,tidak miskin
+utariyah,wanita,sd,buruh,2,tegel/tembok,semi-tembok,450 va,sumur,miskin
+faizah,wanita,sd,buruh,3,tegel/tembok,semi-tembok,450 va,sumur,miskin
+ngasimun,pria,sma,pedagang,1,keramik,tembok,450 va,sumur,tidak miskin
+asrun,pria,smp,buruh,1,keramik,tembok,450 va,pam,tidak miskin
+muhlisin,pria,sma,buruh,2,keramik,semi-tembok,450 va,sumur,miskin
+subandi,pria,sma,pedagang,2,keramik,tembok,900 va,pam,tidak miskin
+naryo,pria,sma,swasta,3,keramik,tembok,900 va,pam,tidak miskin
+hery setyo,pria,sma,swasta,1,keramik,tembok,450 va,pam,tidak miskin
+abidin,pria,sd,buruh,0,tegel/tembok,tembok,450 va,pam,tidak miskin
+saringun,pria,sma,pedagang,1,keramik,tembok,900 va,pam,tidak miskin
+siswandi,pria,sma,swasta,2,keramik,tembok,450 va,pam,tidak miskin
+danang jati k,pria,perguruan tinggi,pegawai,1,keramik,tembok,900 va,pam,tidak miskin
+sutikno,pria,perguruan tinggi,swasta,0,keramik,tembok,900 va,pam,tidak miskin
+budi utomo,pria,sma,swasta,1,keramik,tembok,450 va,pam,tidak miskin
+jumari,pria,tidak sekolah,buruh,0,tegel/tembok,semi-tembok,450 va,pam,miskin
+keman,pria,sma,petani,2,keramik,tembok,450 va,pam,tidak miskin
+robiatun,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,tembok,450 va,sumur,miskin
+turiyah,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,pam,miskin
+yumariyono,pria,sd,buruh,2,tegel/tembok,semi-tembok,450 va,sumur,miskin
+ropek,pria,sma,swasta,1,tegel/tembok,tembok,450 va,sumur,tidak miskin
+sanusi,pria,sma,buruh,0,keramik,tembok,450 va,pam,tidak miskin
+siti maryam,wanita,sma,pedagang,2,tegel/tembok,tembok,450 va,pam,tidak miskin
+suwantoo,pria,sma,swasta,1,keramik,tembok,900 va,pam,tidak miskin
+muhammad mahfudz,pria,sma,swasta,1,keramik,semi-tembok,450 va,sumur,tidak miskin
+samian,pria,tidak sekolah,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur,miskin
+surono,pria,smp,pedagang,1,keramik,tembok,450 va,pam,tidak miskin
+wahyuni,wanita,sma,pedagang,2,keramik,tembok,450 va,pam,tidak miskin
+rohmah,wanita,sd,buruh,2,tegel/tembok,semi-tembok,450 va,sumur,miskin
+abdul ayib,pria,sma,pedagang,1,keramik,semi-tembok,450 va,pam,tidak miskin
+jumiah,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+ngasmini,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+saniah,wanita,tidak sekolah,buruh,0,tegel/tembok,semi-tembok,450 va,pam,miskin
+jumiati,wanita,sd,tidak bekerja,1,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+ahmad angsori,pria,sma,swasta,1,keramik,tembok,450 va,pam,tidak miskin
+asrori,pria,sma,swasta,1,keramik,semi-tembok,450 va,pam,tidak miskin
+miftahul huda,pria,sma,swasta,0,keramik,tembok,900 va,pam,tidak miskin
+sakuri,pria,smp,buruh,1,keramik,semi-tembok,450 va,pam,tidak miskin
+untung surono,pria,smp,petani,0,keramik,semi-tembok,450 va,pam,tidak miskin
+isna ansori,pria,sma,swasta,0,keramik,tembok,450 va,sumur,tidak miskin
+sutardjo,pria,perguruan tinggi,petani,0,keramik,tembok,900 va,pam,tidak miskin
+ari utomo,pria,sma,petani,1,keramik,tembok,900 va,pam,tidak miskin
+achmad suchron,pria,sma,swasta,1,keramik,tembok,450 va,pam,tidak miskin
+istianah,wanita,sma,pedagang,1,keramik,tembok,900 va,pam,tidak miskin
+nastain,pria,sma,swasta,2,keramik,tembok,450 va,sumur,tidak miskin
+samian,pria,sd,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur,miskin
+triono,pria,sma,swasta,1,keramik,tembok,450 va,pam,tidak miskin
+sutinah,wanita,sd,tidak bekerja,0,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+susanti,wanita,smp,buruh,2,tegel/tembok,semi-tembok,450 va,sumur,miskin
+kasdun,pria,smp,buruh,1,keramik,semi-tembok,900 va,pam,tidak miskin
+matori,pria,sd,buruh,0,keramik,semi-tembok,900 va,pam,tidak miskin
+wachid,pria,smp,swasta,0,keramik,tembok,900 va,pam,tidak miskin
+nur muntolib,pria,sma,swasta,1,keramik,tembok,900 va,pam,tidak miskin
+nugroho,pria,sma,swasta,2,keramik,tembok,900 va,pam,tidak miskin
+hindun,wanita,sd,tidak bekerja,0,keramik,semi-tembok,450 va,sumur,miskin
+ratimah,wanita,sd,tidak bekerja,0,keramik,semi-tembok,450 va,sumur,miskin
+akhmad syukur,pria,sma,swasta,1,keramik,tembok,900 va,pam,tidak miskin
+eri muchlis,pria,smp,buruh,0,keramik,semi-tembok,450 va,pam,tidak miskin
+mulyono,pria,smp,buruh,0,keramik,tembok,900 va,sumur,tidak miskin
+deny priyono,pria,sma,swasta,2,keramik,tembok,900 va,pam,tidak miskin
+arif sulistiyono,pria,sma,swasta,1,keramik,tembok,900 va,sumur,tidak miskin

@@ -1,0 +1,101 @@
+nama,kelamin,pendidikan,pekerjaan,jumlah_tanggungan,lantai_rumah,dinding_rumah,daya_listrik,sumber_air
+mifta,pria,sd,petani,1,keramik,semi-tembok,900 va,pam
+suwar,pria,sd,petani,1,keramik,tembok,900 va,pam
+senin,pria,sma,swasta,2,keramik,tembok,900 va,pam
+djumiah,wanita,sd,buruh,0,keramik,semi-tembok,450 va,pam
+marpuah,wanita,sd,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,pam
+malik ibadi s,pria,perguruan tinggi,swasta,3,keramik,tembok,900 va,pam
+sundiyah,wanita,smp,pedagang,0,keramik,semi-tembok,450 va,pam
+nashoka,pria,smp,tidak bekerja,1,keramik,tembok,450 va,pam
+ahmad yani,pria,smp,buruh,2,keramik,tembok,450 va,pam
+zamyuri,pria,sma,buruh,2,keramik,tembok,450 va,pam
+suwanto,pria,sma,petani,2,keramik,semi-tembok,450 va,sumur
+udiyanto,pria,sma,swasta,2,keramik,tembok,900 va,pam
+syafii,pria,sma,pedagang,1,keramik,tembok,900 va,pam
+pasinem,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur
+sulomo,pria,sd,buruh,1,keramik,tembok,450 va,pam
+muzazain,pria,sd,buruh,1,keramik,semi-tembok,450 va,sumur
+patonah,wanita,tidak sekolah,tidak bekerja,0,keramik,semi-tembok,450 va,pam
+ngadi,pria,sma,pedagang,1,keramik,tembok,450 va,pam
+paeni,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur
+safingi,pria,sma,tidak bekerja,1,keramik,semi-tembok,900 va,pam
+ruminah,wanita,tidak sekolah,buruh,0,tegel/tembok,semi-tembok,450 va,sumur
+rohatun,wanita,sd,buruh,2,tegel/tembok,tembok,450 va,sumur
+sudiyono,pria,sma,buruh,3,keramik,tembok,450 va,pam
+muhyi,pria,sma,swasta,2,keramik,tembok,900 va,pam
+wawan,pria,sma,swasta,0,keramik,tembok,900 va,pam
+aris kurniawan,pria,sma,pedagang,0,keramik,semi-tembok,450 va,sumur
+sri murni,wanita,sd,buruh,1,tegel/tembok,semi-tembok,450 va,sumur
+slamet wiharjo,pria,sd,buruh,0,tegel/tembok,semi-tembok,450 va,sumur
+raji,pria,sd,buruh,2,tegel/tembok,semi-tembok,450 va,sumur
+achsan,pria,smp,buruh,2,tegel/tembok,semi-tembok,450 va,sumur
+suendah,wanita,sd,tidak bekerja,1,tegel/tembok,semi-tembok,450 va,sumur
+sri pujiati,wanita,sd,tidak bekerja,0,keramik,semi-tembok,450 va,pam
+seneng,wanita,sd,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,pam
+mangin,pria,tidak sekolah,petani,0,tegel/tembok,kayu/bambu,450 va,sumur
+remu,wanita,sd,tidak bekerja,1,tegel/tembok,semi-tembok,450 va,sumur
+bero,pria,sd,petani,0,tegel/tembok,tembok,900 va,pam
+sadullah,pria,sma,petani,1,keramik,tembok,450 va,pam
+suud,pria,sma,buruh,0,keramik,tembok,900 va,pam
+diniyah,wanita,smp,buruh,1,keramik,semi-tembok,450 va,pam
+antok,pria,sma,pedagang,0,keramik,tembok,900 va,pam
+utariyah,wanita,sd,buruh,2,tegel/tembok,semi-tembok,450 va,sumur
+faizah,wanita,sd,buruh,3,tegel/tembok,semi-tembok,450 va,sumur
+ngasimun,pria,sma,pedagang,1,keramik,tembok,450 va,sumur
+asrun,pria,smp,buruh,1,keramik,tembok,450 va,pam
+muhlisin,pria,sma,buruh,2,keramik,semi-tembok,450 va,sumur
+subandi,pria,sma,pedagang,2,keramik,tembok,900 va,pam
+naryo,pria,sma,swasta,3,keramik,tembok,900 va,pam
+hery setyo,pria,sma,swasta,1,keramik,tembok,450 va,pam
+abidin,pria,sd,buruh,0,tegel/tembok,tembok,450 va,pam
+saringun,pria,sma,pedagang,1,keramik,tembok,900 va,pam
+siswandi,pria,sma,swasta,2,keramik,tembok,450 va,pam
+danang jati k,pria,perguruan tinggi,pegawai,1,keramik,tembok,900 va,pam
+sutikno,pria,perguruan tinggi,swasta,0,keramik,tembok,900 va,pam
+budi utomo,pria,sma,swasta,1,keramik,tembok,450 va,pam
+jumari,pria,tidak sekolah,buruh,0,tegel/tembok,semi-tembok,450 va,pam
+keman,pria,sma,petani,2,keramik,tembok,450 va,pam
+robiatun,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,tembok,450 va,sumur
+turiyah,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,pam
+yumariyono,pria,sd,buruh,2,tegel/tembok,semi-tembok,450 va,sumur
+ropek,pria,sma,swasta,1,tegel/tembok,tembok,450 va,sumur
+sanusi,pria,sma,buruh,0,keramik,tembok,450 va,pam
+siti maryam,wanita,sma,pedagang,2,tegel/tembok,tembok,450 va,pam
+suwantoo,pria,sma,swasta,1,keramik,tembok,900 va,pam
+muhammad mahfudz,pria,sma,swasta,1,keramik,semi-tembok,450 va,sumur
+samian,pria,tidak sekolah,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur
+surono,pria,smp,pedagang,1,keramik,tembok,450 va,pam
+wahyuni,wanita,sma,pedagang,2,keramik,tembok,450 va,pam
+rohmah,wanita,sd,buruh,2,tegel/tembok,semi-tembok,450 va,sumur
+abdul ayib,pria,sma,pedagang,1,keramik,semi-tembok,450 va,pam
+jumiah,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,kayu/bambu,450 va,sumur
+ngasmini,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,kayu/bambu,450 va,sumur
+saniah,wanita,tidak sekolah,buruh,0,tegel/tembok,semi-tembok,450 va,pam
+jumiati,wanita,sd,tidak bekerja,1,tegel/tembok,kayu/bambu,450 va,sumur
+ahmad angsori,pria,sma,swasta,1,keramik,tembok,450 va,pam
+asrori,pria,sma,swasta,1,keramik,semi-tembok,450 va,pam
+miftahul huda,pria,sma,swasta,0,keramik,tembok,900 va,pam
+sakuri,pria,smp,buruh,1,keramik,semi-tembok,450 va,pam
+untung surono,pria,smp,petani,0,keramik,semi-tembok,450 va,pam
+isna ansori,pria,sma,swasta,0,keramik,tembok,450 va,sumur
+sutardjo,pria,perguruan tinggi,petani,0,keramik,tembok,900 va,pam
+ari utomo,pria,sma,petani,1,keramik,tembok,900 va,pam
+achmad suchron,pria,sma,swasta,1,keramik,tembok,450 va,pam
+istianah,wanita,sma,pedagang,1,keramik,tembok,900 va,pam
+nastain,pria,sma,swasta,2,keramik,tembok,450 va,sumur
+samian,pria,sd,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur
+triono,pria,sma,swasta,1,keramik,tembok,450 va,pam
+sutinah,wanita,sd,tidak bekerja,0,tegel/tembok,kayu/bambu,450 va,sumur
+susanti,wanita,smp,buruh,2,tegel/tembok,semi-tembok,450 va,sumur
+kasdun,pria,smp,buruh,1,keramik,semi-tembok,900 va,pam
+matori,pria,sd,buruh,0,keramik,semi-tembok,900 va,pam
+wachid,pria,smp,swasta,0,keramik,tembok,900 va,pam
+nur muntolib,pria,sma,swasta,1,keramik,tembok,900 va,pam
+nugroho,pria,sma,swasta,2,keramik,tembok,900 va,pam
+hindun,wanita,sd,tidak bekerja,0,keramik,semi-tembok,450 va,sumur
+ratimah,wanita,sd,tidak bekerja,0,keramik,semi-tembok,450 va,sumur
+akhmad syukur,pria,sma,swasta,1,keramik,tembok,900 va,pam
+eri muchlis,pria,smp,buruh,0,keramik,semi-tembok,450 va,pam
+mulyono,pria,smp,buruh,0,keramik,tembok,900 va,sumur
+deny priyono,pria,sma,swasta,2,keramik,tembok,900 va,pam
+arif sulistiyono,pria,sma,swasta,1,keramik,tembok,900 va,sumur

@@ -1,0 +1,351 @@
+nama,kelamin,pendidikan,pekerjaan,jumlah_tanggungan,lantai_rumah,dinding_rumah,daya_listrik,sumber_air,keputusan
+siswandi,pria,sma,swasta,2,keramik,tembok,450 va,pam,tidak miskin
+danang jati k,pria,perguruan tinggi,pegawai,1,keramik,tembok,900 va,pam,tidak miskin
+sutikno,pria,perguruan tinggi,swasta,0,keramik,tembok,900 va,pam,tidak miskin
+budi utomo,pria,sma,swasta,1,keramik,tembok,450 va,pam,tidak miskin
+jumari,pria,tidak sekolah,buruh,0,tegel/tembok,semi-tembok,450 va,pam,miskin
+keman,pria,sma,petani,2,keramik,tembok,450 va,pam,tidak miskin
+robiatun,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,tembok,450 va,sumur,miskin
+turiyah,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,pam,miskin
+yumariyono,pria,sd,buruh,2,tegel/tembok,semi-tembok,450 va,sumur,miskin
+ropek,pria,sma,swasta,1,tegel/tembok,tembok,450 va,sumur,tidak miskin
+sanusi,pria,sma,buruh,0,keramik,tembok,450 va,pam,tidak miskin
+siti maryam,wanita,sma,pedagang,2,tegel/tembok,tembok,450 va,pam,tidak miskin
+suwantoo,pria,sma,swasta,1,keramik,tembok,900 va,pam,tidak miskin
+muhammad mahfudz,pria,sma,swasta,1,keramik,semi-tembok,450 va,sumur,tidak miskin
+samian,pria,tidak sekolah,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur,miskin
+surono,pria,smp,pedagang,1,keramik,tembok,450 va,pam,tidak miskin
+wahyuni,wanita,sma,pedagang,2,keramik,tembok,450 va,pam,tidak miskin
+rohmah,wanita,sd,buruh,2,tegel/tembok,semi-tembok,450 va,sumur,miskin
+abdul ayib,pria,sma,pedagang,1,keramik,semi-tembok,450 va,pam,tidak miskin
+jumiah,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+ngasmini,wanita,tidak sekolah,tidak bekerja,0,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+saniah,wanita,tidak sekolah,buruh,0,tegel/tembok,semi-tembok,450 va,pam,miskin
+jumiati,wanita,sd,tidak bekerja,1,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+ahmad angsori,pria,sma,swasta,1,keramik,tembok,450 va,pam,tidak miskin
+asrori,pria,sma,swasta,1,keramik,semi-tembok,450 va,pam,tidak miskin
+miftahul huda,pria,sma,swasta,0,keramik,tembok,900 va,pam,tidak miskin
+sakuri,pria,smp,buruh,1,keramik,semi-tembok,450 va,pam,tidak miskin
+untung surono,pria,smp,petani,0,keramik,semi-tembok,450 va,pam,tidak miskin
+isna ansori,pria,sma,swasta,0,keramik,tembok,450 va,sumur,tidak miskin
+sutardjo,pria,perguruan tinggi,petani,0,keramik,tembok,900 va,pam,tidak miskin
+ari utomo,pria,sma,petani,1,keramik,tembok,900 va,pam,tidak miskin
+achmad suchron,pria,sma,swasta,1,keramik,tembok,450 va,pam,tidak miskin
+istianah,wanita,sma,pedagang,1,keramik,tembok,900 va,pam,tidak miskin
+nastain,pria,sma,swasta,2,keramik,tembok,450 va,sumur,tidak miskin
+samian,pria,sd,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur,miskin
+triono,pria,sma,swasta,1,keramik,tembok,450 va,pam,tidak miskin
+sutinah,wanita,sd,tidak bekerja,0,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+susanti,wanita,smp,buruh,2,tegel/tembok,semi-tembok,450 va,sumur,miskin
+kasdun,pria,smp,buruh,1,keramik,semi-tembok,900 va,pam,tidak miskin
+matori,pria,sd,buruh,0,keramik,semi-tembok,900 va,pam,tidak miskin
+wachid,pria,smp,swasta,0,keramik,tembok,900 va,pam,tidak miskin
+nur muntolib,pria,sma,swasta,1,keramik,tembok,900 va,pam,tidak miskin
+nugroho,pria,sma,swasta,2,keramik,tembok,900 va,pam,tidak miskin
+hindun,wanita,sd,tidak bekerja,0,keramik,semi-tembok,450 va,sumur,miskin
+ratimah,wanita,sd,tidak bekerja,0,keramik,semi-tembok,450 va,sumur,miskin
+akhmad syukur,pria,sma,swasta,1,keramik,tembok,900 va,pam,tidak miskin
+eri muchlis,pria,smp,buruh,0,keramik,semi-tembok,450 va,pam,tidak miskin
+mulyono,pria,smp,buruh,0,keramik,tembok,900 va,sumur,tidak miskin
+deny priyono,pria,sma,swasta,2,keramik,tembok,900 va,pam,tidak miskin
+arif sulistiyono,pria,sma,swasta,1,keramik,tembok,900 va,sumur,tidak miskin
+Penduduk_1,pria,perguruan tinggi,pedagang/petani,3,keramik,kayu/bambu,900 va,pam,miskin
+Penduduk_2,wanita,perguruan tinggi,buruh,0,keramik,semi-tembok,450 va,sumur,miskin
+Penduduk_3,pria,smp,swasta,0,tegel/tembok,tembok,900 va,sumur,tidak miskin
+Penduduk_4,pria,sma,pegawai,2,keramik,tembok,450 va,sumur,tidak miskin
+Penduduk_5,pria,tidak sekolah,tidak bekerja,4,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_6,wanita,sd,buruh,3,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_7,pria,sma,pegawai,5,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_8,pria,sd,tidak bekerja,5,tanah/bambu,kayu/bambu,900 va,pam,miskin
+Penduduk_9,pria,smp,pegawai,1,tanah/bambu,tembok,450 va,sumur,tidak miskin
+Penduduk_10,wanita,smp,pedagang/petani,3,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_11,pria,perguruan tinggi,pegawai,5,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_12,pria,tidak sekolah,pegawai,1,tanah/bambu,tembok,900 va,sumur,miskin
+Penduduk_13,pria,sd,pegawai,4,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_14,pria,sma,buruh,1,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_15,wanita,smp,pegawai,5,tanah/bambu,kayu/bambu,900 va,sumur,miskin
+Penduduk_16,pria,perguruan tinggi,tidak bekerja,2,tegel/tembok,semi-tembok,900 va,sumur,miskin
+Penduduk_17,wanita,perguruan tinggi,pedagang/petani,2,tanah/bambu,kayu/bambu,900 va,pam,miskin
+Penduduk_18,wanita,sd,pedagang/petani,2,tegel/tembok,tembok,900 va,pam,tidak miskin
+Penduduk_19,wanita,smp,pegawai,5,tanah/bambu,kayu/bambu,900 va,pam,miskin
+Penduduk_20,pria,tidak sekolah,buruh,2,keramik,tembok,450 va,pam,miskin
+Penduduk_21,wanita,smp,buruh,3,tanah/bambu,kayu/bambu,450 va,sumur,miskin
+Penduduk_22,pria,sd,tidak bekerja,4,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_23,wanita,sd,pegawai,1,tanah/bambu,kayu/bambu,900 va,sumur,miskin
+Penduduk_24,wanita,smp,pedagang/petani,1,tanah/bambu,kayu/bambu,450 va,sumur,miskin
+Penduduk_25,wanita,sd,buruh,5,tegel/tembok,tembok,450 va,sumur,tidak miskin
+Penduduk_26,wanita,smp,pegawai,2,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_27,wanita,sma,buruh,2,tanah/bambu,kayu/bambu,900 va,sumur,miskin
+Penduduk_28,wanita,smp,buruh,0,tegel/tembok,semi-tembok,900 va,sumur,miskin
+Penduduk_29,wanita,smp,pedagang/petani,4,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_30,wanita,sd,swasta,3,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_31,pria,sd,tidak bekerja,1,keramik,semi-tembok,450 va,sumur,miskin
+Penduduk_32,pria,perguruan tinggi,tidak bekerja,0,keramik,kayu/bambu,450 va,pam,miskin
+Penduduk_33,wanita,perguruan tinggi,pedagang/petani,0,tanah/bambu,semi-tembok,450 va,pam,miskin
+Penduduk_34,wanita,sma,buruh,5,tanah/bambu,kayu/bambu,450 va,pam,miskin
+Penduduk_35,wanita,perguruan tinggi,pegawai,1,tegel/tembok,tembok,900 va,sumur,tidak miskin
+Penduduk_36,pria,smp,buruh,5,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_37,wanita,sd,pedagang/petani,3,tegel/tembok,kayu/bambu,900 va,pam,miskin
+Penduduk_38,pria,perguruan tinggi,tidak bekerja,0,keramik,kayu/bambu,450 va,sumur,miskin
+Penduduk_39,pria,perguruan tinggi,buruh,0,keramik,tembok,900 va,sumur,tidak miskin
+Penduduk_40,pria,sma,tidak bekerja,4,tanah/bambu,semi-tembok,900 va,sumur,miskin
+Penduduk_41,pria,sma,pegawai,3,keramik,kayu/bambu,450 va,pam,miskin
+Penduduk_42,pria,smp,tidak bekerja,0,keramik,tembok,450 va,pam,miskin
+Penduduk_43,wanita,sd,tidak bekerja,3,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_44,wanita,sma,swasta,1,tegel/tembok,semi-tembok,900 va,sumur,miskin
+Penduduk_45,wanita,perguruan tinggi,swasta,2,tegel/tembok,kayu/bambu,900 va,pam,miskin
+Penduduk_46,wanita,sd,swasta,0,tanah/bambu,kayu/bambu,900 va,pam,miskin
+Penduduk_47,wanita,sd,tidak bekerja,4,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_48,pria,perguruan tinggi,pedagang/petani,1,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_49,wanita,sma,tidak bekerja,3,tanah/bambu,tembok,450 va,pam,miskin
+Penduduk_50,wanita,perguruan tinggi,pedagang/petani,5,keramik,tembok,450 va,sumur,tidak miskin
+Penduduk_51,pria,sd,pedagang/petani,1,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_52,wanita,tidak sekolah,swasta,0,tegel/tembok,tembok,900 va,pam,miskin
+Penduduk_53,pria,tidak sekolah,buruh,3,tanah/bambu,tembok,450 va,pam,miskin
+Penduduk_54,wanita,smp,pegawai,2,tanah/bambu,semi-tembok,900 va,pam,miskin
+Penduduk_55,pria,perguruan tinggi,swasta,1,tanah/bambu,tembok,900 va,sumur,tidak miskin
+Penduduk_56,wanita,perguruan tinggi,swasta,0,tanah/bambu,tembok,450 va,sumur,tidak miskin
+Penduduk_57,wanita,smp,buruh,4,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_58,pria,smp,pegawai,5,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_59,pria,smp,tidak bekerja,3,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_60,pria,sd,tidak bekerja,1,keramik,kayu/bambu,450 va,pam,miskin
+Penduduk_61,pria,perguruan tinggi,swasta,1,keramik,kayu/bambu,450 va,pam,miskin
+Penduduk_62,pria,sd,pegawai,2,keramik,semi-tembok,900 va,sumur,miskin
+Penduduk_63,pria,smp,swasta,2,tegel/tembok,semi-tembok,450 va,sumur,miskin
+Penduduk_64,pria,perguruan tinggi,pedagang/petani,4,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_65,pria,sd,swasta,5,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_66,wanita,sd,swasta,4,keramik,kayu/bambu,450 va,pam,miskin
+Penduduk_67,wanita,smp,tidak bekerja,0,tegel/tembok,tembok,450 va,pam,miskin
+Penduduk_68,pria,perguruan tinggi,tidak bekerja,0,tanah/bambu,tembok,450 va,pam,miskin
+Penduduk_69,wanita,smp,tidak bekerja,4,tanah/bambu,semi-tembok,900 va,pam,miskin
+Penduduk_70,wanita,perguruan tinggi,pedagang/petani,5,tegel/tembok,kayu/bambu,900 va,pam,miskin
+Penduduk_71,wanita,tidak sekolah,tidak bekerja,4,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_72,wanita,sma,pegawai,5,tegel/tembok,kayu/bambu,900 va,pam,miskin
+Penduduk_73,pria,sma,buruh,5,keramik,semi-tembok,450 va,sumur,miskin
+Penduduk_74,wanita,sma,pegawai,3,tegel/tembok,tembok,900 va,sumur,tidak miskin
+Penduduk_75,pria,smp,pegawai,5,tegel/tembok,semi-tembok,900 va,sumur,miskin
+Penduduk_76,wanita,tidak sekolah,tidak bekerja,2,tegel/tembok,tembok,450 va,sumur,miskin
+Penduduk_77,wanita,perguruan tinggi,buruh,5,tanah/bambu,tembok,450 va,pam,tidak miskin
+Penduduk_78,wanita,sd,buruh,5,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_79,pria,perguruan tinggi,buruh,5,keramik,tembok,900 va,sumur,tidak miskin
+Penduduk_80,wanita,sd,pedagang/petani,0,keramik,tembok,900 va,sumur,tidak miskin
+Penduduk_81,pria,perguruan tinggi,tidak bekerja,2,tanah/bambu,kayu/bambu,900 va,pam,miskin
+Penduduk_82,wanita,tidak sekolah,buruh,2,tanah/bambu,tembok,450 va,pam,miskin
+Penduduk_83,pria,sd,pedagang/petani,4,tanah/bambu,semi-tembok,450 va,pam,miskin
+Penduduk_84,wanita,smp,swasta,3,tegel/tembok,semi-tembok,900 va,sumur,miskin
+Penduduk_85,pria,perguruan tinggi,swasta,5,tegel/tembok,tembok,450 va,sumur,tidak miskin
+Penduduk_86,pria,perguruan tinggi,pedagang/petani,1,tanah/bambu,kayu/bambu,450 va,pam,miskin
+Penduduk_87,wanita,sd,pedagang/petani,3,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_88,pria,smp,tidak bekerja,3,tegel/tembok,tembok,900 va,pam,miskin
+Penduduk_89,wanita,smp,tidak bekerja,2,keramik,tembok,450 va,pam,miskin
+Penduduk_90,wanita,tidak sekolah,swasta,3,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_91,wanita,smp,buruh,5,tanah/bambu,tembok,900 va,sumur,tidak miskin
+Penduduk_92,wanita,smp,swasta,5,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_93,wanita,smp,buruh,0,tanah/bambu,tembok,450 va,sumur,tidak miskin
+Penduduk_94,wanita,sma,buruh,5,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_95,wanita,tidak sekolah,tidak bekerja,5,keramik,semi-tembok,900 va,pam,miskin
+Penduduk_96,wanita,perguruan tinggi,pegawai,2,keramik,semi-tembok,900 va,pam,miskin
+Penduduk_97,wanita,sd,pegawai,5,tanah/bambu,semi-tembok,450 va,pam,miskin
+Penduduk_98,wanita,perguruan tinggi,pedagang/petani,0,tanah/bambu,semi-tembok,450 va,pam,miskin
+Penduduk_99,wanita,tidak sekolah,tidak bekerja,1,tanah/bambu,tembok,450 va,sumur,miskin
+Penduduk_100,pria,sd,buruh,2,tanah/bambu,tembok,450 va,pam,tidak miskin
+Penduduk_101,pria,tidak sekolah,pegawai,1,tanah/bambu,tembok,900 va,pam,miskin
+Penduduk_102,wanita,smp,buruh,2,keramik,tembok,450 va,pam,tidak miskin
+Penduduk_103,wanita,sd,pegawai,4,tegel/tembok,semi-tembok,450 va,sumur,miskin
+Penduduk_104,wanita,smp,pegawai,3,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_105,wanita,perguruan tinggi,pegawai,4,tanah/bambu,tembok,450 va,sumur,tidak miskin
+Penduduk_106,wanita,perguruan tinggi,tidak bekerja,5,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_107,wanita,sd,swasta,1,tanah/bambu,tembok,450 va,pam,tidak miskin
+Penduduk_108,wanita,sd,buruh,5,tanah/bambu,tembok,450 va,pam,tidak miskin
+Penduduk_109,wanita,tidak sekolah,tidak bekerja,3,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_110,pria,tidak sekolah,tidak bekerja,2,tanah/bambu,semi-tembok,900 va,sumur,miskin
+Penduduk_111,wanita,smp,tidak bekerja,3,tegel/tembok,tembok,450 va,pam,miskin
+Penduduk_112,pria,sd,tidak bekerja,0,tanah/bambu,tembok,450 va,pam,miskin
+Penduduk_113,wanita,perguruan tinggi,tidak bekerja,3,tegel/tembok,tembok,450 va,sumur,miskin
+Penduduk_114,wanita,tidak sekolah,pedagang/petani,0,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_115,pria,tidak sekolah,buruh,3,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_116,wanita,perguruan tinggi,tidak bekerja,0,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_117,pria,tidak sekolah,buruh,1,tegel/tembok,kayu/bambu,900 va,pam,miskin
+Penduduk_118,wanita,smp,pedagang/petani,5,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_119,wanita,sd,pedagang/petani,5,tegel/tembok,kayu/bambu,900 va,pam,miskin
+Penduduk_120,pria,perguruan tinggi,buruh,4,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_121,wanita,sd,pegawai,5,tanah/bambu,tembok,450 va,sumur,tidak miskin
+Penduduk_122,pria,tidak sekolah,swasta,2,tegel/tembok,semi-tembok,450 va,pam,miskin
+Penduduk_123,wanita,tidak sekolah,pegawai,3,tanah/bambu,tembok,450 va,pam,miskin
+Penduduk_124,pria,perguruan tinggi,pegawai,4,tegel/tembok,kayu/bambu,450 va,pam,miskin
+Penduduk_125,pria,smp,pegawai,2,tanah/bambu,kayu/bambu,900 va,pam,miskin
+Penduduk_126,wanita,sma,tidak bekerja,2,keramik,tembok,900 va,sumur,miskin
+Penduduk_127,wanita,perguruan tinggi,pedagang/petani,0,tanah/bambu,kayu/bambu,450 va,pam,miskin
+Penduduk_128,pria,sma,pegawai,5,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_129,wanita,sma,pedagang/petani,1,tanah/bambu,tembok,900 va,pam,tidak miskin
+Penduduk_130,wanita,smp,buruh,1,keramik,kayu/bambu,900 va,pam,miskin
+Penduduk_131,wanita,sma,swasta,4,tanah/bambu,tembok,900 va,pam,tidak miskin
+Penduduk_132,pria,sma,buruh,1,keramik,semi-tembok,900 va,pam,miskin
+Penduduk_133,pria,smp,buruh,3,tegel/tembok,semi-tembok,450 va,pam,miskin
+Penduduk_134,pria,sma,tidak bekerja,1,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_135,pria,sma,swasta,4,keramik,semi-tembok,900 va,sumur,miskin
+Penduduk_136,pria,sma,buruh,1,tanah/bambu,tembok,450 va,sumur,tidak miskin
+Penduduk_137,pria,perguruan tinggi,buruh,3,keramik,semi-tembok,900 va,sumur,miskin
+Penduduk_138,pria,perguruan tinggi,swasta,0,tanah/bambu,tembok,450 va,pam,tidak miskin
+Penduduk_139,pria,perguruan tinggi,swasta,4,tegel/tembok,tembok,900 va,sumur,tidak miskin
+Penduduk_140,pria,smp,buruh,0,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_141,wanita,tidak sekolah,swasta,0,tegel/tembok,kayu/bambu,900 va,pam,miskin
+Penduduk_142,pria,sma,buruh,0,tanah/bambu,semi-tembok,900 va,pam,miskin
+Penduduk_143,wanita,sma,buruh,2,tanah/bambu,tembok,450 va,sumur,tidak miskin
+Penduduk_144,wanita,smp,tidak bekerja,5,tanah/bambu,tembok,900 va,sumur,miskin
+Penduduk_145,wanita,sma,pegawai,2,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_146,pria,perguruan tinggi,buruh,5,keramik,kayu/bambu,450 va,sumur,miskin
+Penduduk_147,pria,tidak sekolah,pedagang/petani,0,tegel/tembok,kayu/bambu,900 va,pam,miskin
+Penduduk_148,pria,sd,pegawai,4,tegel/tembok,tembok,450 va,pam,tidak miskin
+Penduduk_149,pria,sma,pegawai,5,keramik,tembok,450 va,pam,tidak miskin
+Penduduk_150,wanita,perguruan tinggi,pegawai,3,tegel/tembok,kayu/bambu,450 va,pam,miskin
+Penduduk_151,pria,sd,tidak bekerja,3,keramik,semi-tembok,450 va,sumur,miskin
+Penduduk_152,pria,tidak sekolah,buruh,1,tanah/bambu,tembok,450 va,pam,miskin
+Penduduk_153,pria,sd,tidak bekerja,5,tegel/tembok,tembok,900 va,pam,miskin
+Penduduk_154,pria,perguruan tinggi,buruh,4,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_155,pria,sd,tidak bekerja,2,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_156,wanita,smp,tidak bekerja,0,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_157,pria,sd,pedagang/petani,1,tegel/tembok,semi-tembok,450 va,sumur,miskin
+Penduduk_158,wanita,sma,tidak bekerja,3,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_159,pria,sma,swasta,2,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_160,wanita,smp,pedagang/petani,2,tanah/bambu,tembok,450 va,sumur,tidak miskin
+Penduduk_161,pria,perguruan tinggi,tidak bekerja,0,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_162,pria,sma,pegawai,5,tegel/tembok,kayu/bambu,900 va,pam,miskin
+Penduduk_163,wanita,tidak sekolah,swasta,3,tanah/bambu,semi-tembok,900 va,sumur,miskin
+Penduduk_164,wanita,sma,swasta,4,keramik,tembok,900 va,sumur,tidak miskin
+Penduduk_165,wanita,sma,swasta,2,tegel/tembok,tembok,450 va,sumur,tidak miskin
+Penduduk_166,pria,perguruan tinggi,pedagang/petani,0,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_167,wanita,sd,tidak bekerja,4,tegel/tembok,tembok,900 va,sumur,miskin
+Penduduk_168,pria,sma,tidak bekerja,5,keramik,tembok,450 va,pam,miskin
+Penduduk_169,pria,smp,pegawai,3,keramik,semi-tembok,450 va,sumur,miskin
+Penduduk_170,wanita,sd,pegawai,5,tanah/bambu,tembok,450 va,sumur,tidak miskin
+Penduduk_171,wanita,tidak sekolah,swasta,2,keramik,semi-tembok,900 va,pam,miskin
+Penduduk_172,pria,perguruan tinggi,pegawai,4,tegel/tembok,kayu/bambu,450 va,pam,miskin
+Penduduk_173,pria,tidak sekolah,pedagang/petani,4,tegel/tembok,tembok,450 va,pam,miskin
+Penduduk_174,wanita,sd,tidak bekerja,4,tanah/bambu,kayu/bambu,900 va,sumur,miskin
+Penduduk_175,wanita,sd,swasta,2,tegel/tembok,kayu/bambu,450 va,pam,miskin
+Penduduk_176,wanita,sd,pegawai,2,tegel/tembok,tembok,450 va,sumur,tidak miskin
+Penduduk_177,pria,tidak sekolah,pedagang/petani,5,tegel/tembok,tembok,450 va,sumur,miskin
+Penduduk_178,pria,sd,pedagang/petani,1,keramik,kayu/bambu,450 va,pam,miskin
+Penduduk_179,pria,tidak sekolah,pegawai,5,keramik,tembok,900 va,pam,miskin
+Penduduk_180,pria,sd,tidak bekerja,3,tegel/tembok,semi-tembok,450 va,sumur,miskin
+Penduduk_181,pria,smp,pegawai,0,tanah/bambu,semi-tembok,450 va,pam,miskin
+Penduduk_182,pria,sd,swasta,4,keramik,tembok,900 va,sumur,tidak miskin
+Penduduk_183,wanita,tidak sekolah,pegawai,1,tanah/bambu,kayu/bambu,450 va,pam,miskin
+Penduduk_184,pria,sma,pedagang/petani,0,tegel/tembok,tembok,900 va,pam,tidak miskin
+Penduduk_185,pria,sd,pegawai,1,tegel/tembok,tembok,450 va,pam,tidak miskin
+Penduduk_186,pria,sma,tidak bekerja,5,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_187,wanita,smp,buruh,2,tegel/tembok,kayu/bambu,900 va,pam,miskin
+Penduduk_188,pria,perguruan tinggi,pegawai,4,keramik,semi-tembok,900 va,sumur,miskin
+Penduduk_189,pria,smp,tidak bekerja,5,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_190,wanita,sd,tidak bekerja,0,tegel/tembok,semi-tembok,450 va,sumur,miskin
+Penduduk_191,pria,sma,pedagang/petani,0,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_192,pria,sma,tidak bekerja,0,keramik,tembok,450 va,pam,miskin
+Penduduk_193,pria,tidak sekolah,tidak bekerja,0,keramik,semi-tembok,900 va,sumur,miskin
+Penduduk_194,pria,sma,tidak bekerja,0,tegel/tembok,semi-tembok,900 va,sumur,miskin
+Penduduk_195,pria,tidak sekolah,tidak bekerja,1,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_196,wanita,perguruan tinggi,swasta,5,tanah/bambu,tembok,450 va,sumur,tidak miskin
+Penduduk_197,wanita,sd,swasta,4,keramik,tembok,900 va,pam,tidak miskin
+Penduduk_198,wanita,tidak sekolah,pedagang/petani,2,tegel/tembok,tembok,450 va,sumur,miskin
+Penduduk_199,pria,perguruan tinggi,pegawai,2,tegel/tembok,tembok,450 va,pam,tidak miskin
+Penduduk_200,pria,sma,tidak bekerja,5,keramik,tembok,450 va,sumur,miskin
+Penduduk_201,pria,sma,pegawai,5,tanah/bambu,semi-tembok,450 va,pam,miskin
+Penduduk_202,wanita,perguruan tinggi,pegawai,2,keramik,tembok,450 va,sumur,tidak miskin
+Penduduk_203,pria,sma,pedagang/petani,2,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_204,pria,perguruan tinggi,tidak bekerja,1,tegel/tembok,tembok,450 va,pam,miskin
+Penduduk_205,wanita,tidak sekolah,tidak bekerja,3,tanah/bambu,kayu/bambu,450 va,pam,miskin
+Penduduk_206,pria,tidak sekolah,buruh,4,tegel/tembok,semi-tembok,450 va,pam,miskin
+Penduduk_207,wanita,perguruan tinggi,pegawai,0,keramik,kayu/bambu,900 va,pam,miskin
+Penduduk_208,wanita,tidak sekolah,pegawai,3,keramik,semi-tembok,900 va,sumur,miskin
+Penduduk_209,wanita,tidak sekolah,swasta,5,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_210,pria,tidak sekolah,buruh,2,tanah/bambu,tembok,900 va,pam,miskin
+Penduduk_211,pria,smp,swasta,3,tegel/tembok,tembok,900 va,sumur,tidak miskin
+Penduduk_212,pria,sd,swasta,4,keramik,tembok,450 va,pam,tidak miskin
+Penduduk_213,pria,sma,swasta,5,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_214,pria,smp,pedagang/petani,0,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_215,pria,tidak sekolah,pedagang/petani,0,keramik,tembok,450 va,sumur,miskin
+Penduduk_216,pria,perguruan tinggi,swasta,4,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_217,wanita,tidak sekolah,buruh,4,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_218,pria,sd,pegawai,2,tegel/tembok,tembok,450 va,sumur,tidak miskin
+Penduduk_219,wanita,tidak sekolah,buruh,0,tegel/tembok,tembok,900 va,sumur,miskin
+Penduduk_220,pria,perguruan tinggi,tidak bekerja,5,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_221,pria,sd,pedagang/petani,3,tanah/bambu,tembok,900 va,pam,tidak miskin
+Penduduk_222,pria,tidak sekolah,pegawai,5,keramik,tembok,900 va,pam,miskin
+Penduduk_223,wanita,sd,pegawai,1,tanah/bambu,tembok,450 va,pam,tidak miskin
+Penduduk_224,wanita,sma,tidak bekerja,1,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_225,wanita,sma,tidak bekerja,4,tanah/bambu,kayu/bambu,450 va,pam,miskin
+Penduduk_226,wanita,tidak sekolah,swasta,2,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_227,pria,sd,pedagang/petani,1,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_228,wanita,perguruan tinggi,pedagang/petani,0,keramik,kayu/bambu,450 va,pam,miskin
+Penduduk_229,pria,tidak sekolah,buruh,5,tanah/bambu,tembok,450 va,pam,miskin
+Penduduk_230,pria,sma,swasta,5,tanah/bambu,kayu/bambu,900 va,pam,miskin
+Penduduk_231,wanita,sma,swasta,4,keramik,tembok,450 va,pam,tidak miskin
+Penduduk_232,wanita,tidak sekolah,swasta,3,tanah/bambu,semi-tembok,900 va,pam,miskin
+Penduduk_233,wanita,sd,swasta,4,tanah/bambu,tembok,900 va,pam,tidak miskin
+Penduduk_234,wanita,sma,pedagang/petani,3,tanah/bambu,kayu/bambu,900 va,sumur,miskin
+Penduduk_235,wanita,sd,pedagang/petani,4,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_236,wanita,sma,swasta,4,tegel/tembok,kayu/bambu,450 va,pam,miskin
+Penduduk_237,wanita,sma,buruh,4,tanah/bambu,semi-tembok,900 va,sumur,miskin
+Penduduk_238,wanita,smp,pegawai,3,tanah/bambu,semi-tembok,900 va,sumur,miskin
+Penduduk_239,pria,sma,pegawai,3,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_240,wanita,perguruan tinggi,buruh,4,tegel/tembok,tembok,450 va,sumur,tidak miskin
+Penduduk_241,wanita,tidak sekolah,swasta,1,keramik,semi-tembok,900 va,pam,miskin
+Penduduk_242,pria,tidak sekolah,pedagang/petani,2,keramik,kayu/bambu,450 va,sumur,miskin
+Penduduk_243,wanita,sd,pegawai,2,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_244,pria,sma,tidak bekerja,2,tanah/bambu,semi-tembok,900 va,sumur,miskin
+Penduduk_245,pria,perguruan tinggi,tidak bekerja,3,tanah/bambu,semi-tembok,900 va,pam,miskin
+Penduduk_246,wanita,sd,buruh,3,tanah/bambu,semi-tembok,900 va,pam,miskin
+Penduduk_247,pria,smp,swasta,1,tanah/bambu,tembok,450 va,pam,tidak miskin
+Penduduk_248,pria,sd,pegawai,2,keramik,tembok,900 va,pam,tidak miskin
+Penduduk_249,pria,sd,swasta,2,tegel/tembok,kayu/bambu,450 va,pam,miskin
+Penduduk_250,pria,sma,pegawai,4,tanah/bambu,semi-tembok,450 va,pam,miskin
+Penduduk_251,wanita,smp,buruh,3,keramik,tembok,450 va,pam,tidak miskin
+Penduduk_252,pria,sd,buruh,2,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_253,wanita,perguruan tinggi,tidak bekerja,5,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_254,pria,perguruan tinggi,swasta,1,keramik,tembok,450 va,sumur,tidak miskin
+Penduduk_255,pria,tidak sekolah,tidak bekerja,5,tegel/tembok,tembok,900 va,pam,miskin
+Penduduk_256,pria,smp,swasta,5,tegel/tembok,tembok,450 va,pam,tidak miskin
+Penduduk_257,pria,smp,tidak bekerja,1,keramik,kayu/bambu,450 va,pam,miskin
+Penduduk_258,wanita,tidak sekolah,pedagang/petani,5,keramik,semi-tembok,900 va,pam,miskin
+Penduduk_259,wanita,sd,pedagang/petani,2,keramik,tembok,900 va,pam,tidak miskin
+Penduduk_260,pria,smp,pedagang/petani,3,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_261,pria,perguruan tinggi,pedagang/petani,1,keramik,semi-tembok,450 va,sumur,miskin
+Penduduk_262,wanita,perguruan tinggi,pegawai,4,keramik,kayu/bambu,450 va,pam,miskin
+Penduduk_263,pria,sma,pedagang/petani,5,keramik,semi-tembok,900 va,pam,miskin
+Penduduk_264,pria,smp,buruh,1,tanah/bambu,kayu/bambu,900 va,pam,miskin
+Penduduk_265,pria,sd,buruh,0,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_266,wanita,tidak sekolah,pegawai,0,keramik,tembok,900 va,sumur,miskin
+Penduduk_267,wanita,tidak sekolah,pedagang/petani,3,tanah/bambu,semi-tembok,450 va,pam,miskin
+Penduduk_268,wanita,sd,pedagang/petani,2,tanah/bambu,kayu/bambu,900 va,pam,miskin
+Penduduk_269,pria,sma,pedagang/petani,3,tanah/bambu,kayu/bambu,900 va,pam,miskin
+Penduduk_270,pria,tidak sekolah,tidak bekerja,3,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_271,wanita,smp,swasta,3,keramik,tembok,900 va,sumur,tidak miskin
+Penduduk_272,wanita,sma,tidak bekerja,3,tanah/bambu,tembok,450 va,pam,miskin
+Penduduk_273,wanita,smp,swasta,4,tegel/tembok,semi-tembok,900 va,pam,miskin
+Penduduk_274,wanita,perguruan tinggi,pedagang/petani,4,tegel/tembok,semi-tembok,450 va,sumur,miskin
+Penduduk_275,pria,sma,pedagang/petani,1,tegel/tembok,kayu/bambu,900 va,sumur,miskin
+Penduduk_276,wanita,tidak sekolah,tidak bekerja,0,tanah/bambu,tembok,900 va,sumur,miskin
+Penduduk_277,pria,sma,tidak bekerja,3,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_278,wanita,sma,swasta,1,tanah/bambu,tembok,900 va,pam,tidak miskin
+Penduduk_279,pria,sma,buruh,0,tanah/bambu,semi-tembok,450 va,sumur,miskin
+Penduduk_280,wanita,sma,swasta,5,keramik,semi-tembok,450 va,sumur,miskin
+Penduduk_281,wanita,smp,tidak bekerja,2,keramik,tembok,900 va,sumur,miskin
+Penduduk_282,wanita,perguruan tinggi,tidak bekerja,4,keramik,semi-tembok,450 va,sumur,miskin
+Penduduk_283,wanita,sd,pegawai,5,tegel/tembok,semi-tembok,450 va,sumur,miskin
+Penduduk_284,pria,sma,tidak bekerja,0,keramik,kayu/bambu,450 va,sumur,miskin
+Penduduk_285,wanita,tidak sekolah,pegawai,5,tanah/bambu,semi-tembok,450 va,pam,miskin
+Penduduk_286,pria,sma,buruh,2,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_287,pria,tidak sekolah,swasta,0,tanah/bambu,semi-tembok,450 va,pam,miskin
+Penduduk_288,pria,smp,swasta,5,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_289,pria,tidak sekolah,pegawai,4,tanah/bambu,tembok,450 va,sumur,miskin
+Penduduk_290,wanita,sd,swasta,4,tanah/bambu,kayu/bambu,900 va,sumur,miskin
+Penduduk_291,pria,perguruan tinggi,tidak bekerja,1,keramik,kayu/bambu,900 va,sumur,miskin
+Penduduk_292,pria,tidak sekolah,pedagang/petani,5,keramik,tembok,450 va,sumur,miskin
+Penduduk_293,pria,tidak sekolah,pegawai,3,tanah/bambu,kayu/bambu,900 va,sumur,miskin
+Penduduk_294,wanita,perguruan tinggi,swasta,5,keramik,tembok,450 va,pam,tidak miskin
+Penduduk_295,wanita,sd,pegawai,0,tegel/tembok,kayu/bambu,450 va,pam,miskin
+Penduduk_296,wanita,sma,pegawai,0,tegel/tembok,tembok,900 va,sumur,tidak miskin
+Penduduk_297,wanita,tidak sekolah,pedagang/petani,5,keramik,semi-tembok,450 va,pam,miskin
+Penduduk_298,pria,perguruan tinggi,tidak bekerja,2,tegel/tembok,kayu/bambu,450 va,sumur,miskin
+Penduduk_299,pria,smp,pegawai,4,keramik,kayu/bambu,450 va,pam,miskin
+Penduduk_300,wanita,perguruan tinggi,swasta,0,tanah/bambu,kayu/bambu,450 va,sumur,miskin
