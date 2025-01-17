@@ -3,6 +3,6 @@ pandas==2.2.2
 streamlit
 pip
 scikit-learn
-matplotlib
-pyplot
+matplotlib==3.9.2
+plotly
 seaborn
