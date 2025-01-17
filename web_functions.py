@@ -8,7 +8,7 @@ import streamlit as st
 def load_data():
 
     # load dataset
-    data = pd.read_csv('datamiskinsidorejo400.csv')
+    data = pd.read_csv('datamiskinsidorejo100.csv')
 
     df = data.drop(['nama'], axis = 1)
     ind_col = [col for col in df.columns if col != 'keputusan']
