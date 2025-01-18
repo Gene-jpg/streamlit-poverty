@@ -35,11 +35,4 @@ def app(data, df, x, y):
     # st.write(f"- **Presisi**: {prec* 100:.2f}")
     # st.write(f"- **Recall**: {rec* 100:.2f}")
 
-    # if st.checkbox("Plot decision Tree"):
-    #     model, score  = train_model(x,y)
-    #     dot_data = tree.export_graphviz(
-    #         decision_tree=model, max_depth=3, out_file=None, filled=True, rounded=True,
-    #         feature_names=x.columns, class_names=['0', '1']
-    #     )
-
     #     st.graphviz_chart(dot_data)
