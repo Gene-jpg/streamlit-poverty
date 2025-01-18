@@ -5,7 +5,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 
 # Load data
-df = pd.read_csv("datamiskinsidorejo400.csv")   
+df = pd.read_csv("datamiskinsidorejo100.csv")   
 
 df = df.drop(['nama'], axis = 1)
 ind_col = [col for col in df.columns if col != 'keputusan']
