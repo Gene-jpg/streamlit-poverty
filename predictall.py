@@ -11,7 +11,7 @@ df = df.drop(['nama'], axis = 1)
 ind_col = [col for col in df.columns if col != 'keputusan']
 dep_col = 'keputusan'
 mapping = {
-'kelamin': {'pria': 1, 'wanita': 2},
+'kelamin': {'pria': 0, 'wanita': 1},
 'pendidikan': {'perguruan tinggi': 1, 'sma': 2, 'smp': 3, 'sd': 4, 'tidak sekolah':5},
 'pekerjaan': {'pegawai': 1, 'swasta':2, 'pedagang': 2, 'petani': 2, 'pedagang/petani': 2,'buruh': 3, 'tidak bekerja': 4},
 'jumlah_tanggungan': {'0': 1, '1':2, '2': 3, '3': 4, '4': 4, '5': 4},
