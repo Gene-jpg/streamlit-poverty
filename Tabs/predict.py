@@ -9,7 +9,7 @@ def app(data, df, x,y):
 
     with col1:
         # Dictionary untuk memetakan pilihan ke nilai numerik
-        opsi_kelamin = {'Laki-laki': 1, 'Perempuan': 2}
+        opsi_kelamin = {'Laki-laki': 0, 'Perempuan': 1}
 
         # Membuat select box dengan label pilihan
         pilih_kelamin = st.selectbox('Pilih jenis kelamin Anda', list(opsi_kelamin.keys()))
